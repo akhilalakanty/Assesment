@@ -1,0 +1,49 @@
+{"message":"Server started running on port:3000","level":"info","timestamp":"2020-07-17T05:05:37.074Z"}
+{"message":"SUCCESS: Sucessfully connected to database","level":"info","timestamp":"2020-07-17T05:05:37.570Z"}
+{"message":"Started updating assignedTo field","level":"info","timestamp":"2020-07-17T05:08:41.067Z"}
+{"message":"Started updating assignedTo field into DB","level":"info","timestamp":"2020-07-17T05:08:41.133Z"}
+{"message":"SUCCESS: Assigned ticket to akhil","level":"info","timestamp":"2020-07-17T05:08:41.134Z"}
+{"message":"Started updating assignedTo field","level":"info","timestamp":"2020-07-17T05:08:46.832Z"}
+{"message":"ERROR Validation: 'assignedTo' field cannot be empty","level":"info","timestamp":"2020-07-17T05:08:46.832Z"}
+{"message":"Started updating assignedTo field","level":"info","timestamp":"2020-07-17T05:08:51.362Z"}
+{"message":"Started updating assignedTo field into DB","level":"info","timestamp":"2020-07-17T05:08:51.428Z"}
+{"message":"SUCCESS: Assigned ticket to akhil","level":"info","timestamp":"2020-07-17T05:08:51.428Z"}
+{"message":"Started updating assignedTo field","level":"info","timestamp":"2020-07-17T05:08:55.483Z"}
+{"message":"Started updating assignedTo field into DB","level":"info","timestamp":"2020-07-17T05:08:55.531Z"}
+{"message":"ERROR Validation: there is no such ticket ID exists, unable to update assignedTo field","level":"info","timestamp":"2020-07-17T05:08:55.534Z"}
+{"message":"Started updating assignedTo field","level":"info","timestamp":"2020-07-17T05:09:00.453Z"}
+{"message":"Started updating assignedTo field into DB","level":"info","timestamp":"2020-07-17T05:09:00.520Z"}
+{"message":"SUCCESS: Assigned ticket to akhil","level":"info","timestamp":"2020-07-17T05:09:00.520Z"}
+{"message":"Started updating status field in db","level":"info","timestamp":"2020-07-17T05:09:40.771Z"}
+{"message":"validating status entered","level":"info","timestamp":"2020-07-17T05:09:40.772Z"}
+{"message":"success: Status validation succeeded proceeding to update record","level":"info","timestamp":"2020-07-17T05:09:40.772Z"}
+{"message":"Started inserting value to ticket","level":"info","timestamp":"2020-07-17T05:09:40.824Z"}
+{"message":"Server started running on port:3000","level":"info","timestamp":"2020-07-17T05:11:40.681Z"}
+{"message":"SUCCESS: Sucessfully connected to database","level":"info","timestamp":"2020-07-17T05:11:41.090Z"}
+{"message":"Started updating status field in db","level":"info","timestamp":"2020-07-17T05:11:48.405Z"}
+{"message":"validating status entered","level":"info","timestamp":"2020-07-17T05:11:48.405Z"}
+{"message":"success: Status validation succeeded proceeding to update record","level":"info","timestamp":"2020-07-17T05:11:48.405Z"}
+{"message":"Started inserting value to ticket","level":"info","timestamp":"2020-07-17T05:11:48.498Z"}
+{"message":"SUCCESS: Updated Ticket Status Successfully with new status.","level":"info","timestamp":"2020-07-17T05:11:48.498Z"}
+{"message":"Started updating status field in db","level":"info","timestamp":"2020-07-17T05:11:54.161Z"}
+{"message":"validating status entered","level":"info","timestamp":"2020-07-17T05:11:54.162Z"}
+{"message":"success: Status validation succeeded proceeding to update record","level":"info","timestamp":"2020-07-17T05:11:54.162Z"}
+{"message":"Started inserting value to ticket","level":"info","timestamp":"2020-07-17T05:11:54.203Z"}
+{"message":"ERROR Validation: there is no such ticket ID exists. cannot update status field","level":"info","timestamp":"2020-07-17T05:11:54.204Z"}
+{"message":"Started updating status field in db","level":"info","timestamp":"2020-07-17T05:12:00.544Z"}
+{"message":"ERROR Validation: the entered status is not valid.","level":"info","timestamp":"2020-07-17T05:12:00.544Z"}
+{"message":"Started updating ticket with deadLineDateTime field","level":"info","timestamp":"2020-07-17T05:12:59.723Z"}
+{"message":"ERROR Validation: deadLineDateTime field cannot be empty","level":"info","timestamp":"2020-07-17T05:12:59.724Z"}
+{"message":"Started updating ticket with deadLineDateTime field","level":"info","timestamp":"2020-07-17T05:13:14.799Z"}
+{"message":"Started inserting value to ticket","level":"info","timestamp":"2020-07-17T05:13:14.849Z"}
+{"message":"SUCCESS: Updated Ticket Deadline Successfully with deadLineDateTime field","level":"info","timestamp":"2020-07-17T05:13:14.849Z"}
+{"message":"Started updating ticket with deadLineDateTime field","level":"info","timestamp":"2020-07-17T05:13:20.400Z"}
+{"message":"Started inserting value to ticket","level":"info","timestamp":"2020-07-17T05:13:20.441Z"}
+{"message":"ERROR Validation: there is no such ticket ID exists. cannot update deadLineDateTime field","level":"info","timestamp":"2020-07-17T05:13:20.441Z"}
+{"message":"Started updating ticket with deadLineDateTime field","level":"info","timestamp":"2020-07-17T05:13:27.179Z"}
+{"message":"ERROR Validation: deadLineDateTime field cannot be empty","level":"info","timestamp":"2020-07-17T05:13:27.179Z"}
+{"message":"Started updating ticket with deadLineDateTime field","level":"info","timestamp":"2020-07-17T05:13:39.939Z"}
+{"message":"Started inserting value to ticket","level":"info","timestamp":"2020-07-17T05:13:40.000Z"}
+{"message":"SUCCESS: Updated Ticket Deadline Successfully with deadLineDateTime field","level":"info","timestamp":"2020-07-17T05:13:40.000Z"}
+{"message":"Server started running on port:3000","level":"info","timestamp":"2020-07-17T05:13:50.590Z"}
+{"message":"SUCCESS: Sucessfully connected to database","level":"info","timestamp":"2020-07-17T05:13:51.137Z"}
