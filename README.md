@@ -8,7 +8,7 @@
 
 4) /api/v1/tickets/updateDeadLine
 
-Note: Please find more details on validations in install file.
+Note: Please find more details on validations in install steps file.
 
 Install Steps:
 
