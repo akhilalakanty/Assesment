@@ -1,25 +1,14 @@
 # Assesment
  API's for service tickets
 1) /api/v1/tickets/create
-Validations: 
-  1) subject,description,deadLineDateTime,severity fields cannot be empty.
-  2) Severity field can only have "low", "medium", "high"
  
 2) /api/v1/tickets/updateAssignedTo
-Validations: 
-  1) assignedTo field cannot be empty
-  2) Should provide valid ticketID
 
 3) /api/v1/tickets/updateStatus
-Validations: 
-  1) update  field should be one of initiated, assigned, stuck, completed, testing, closed.
-  2) Should provide valid ticketID
 
 4) /api/v1/tickets/updateDeadLine
-Validations: 
-  1) updateDeadLine field cannot be empty
-  2) Should provide valid ticketID
 
+Note: Please find more details on validations in install file.
 
 Install Steps:
 
